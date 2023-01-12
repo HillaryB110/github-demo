@@ -3,3 +3,4 @@
 This is my first time connecting a local git repository to GitHub.
 
 This is a struggle and my sanity is hanging on by a thread 
+I added a new file and said hey to you!
